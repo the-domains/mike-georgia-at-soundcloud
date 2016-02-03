@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mike Georgia at Soundcloud]]></title>
         <description><![CDATA[Mike Georgia at Soundcloud]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mike-georgia-at-soundcloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 05:31:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 05:31:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mike-georgia-at-soundcloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuga]]></title>
+            <description><![CDATA[<article><h1>Fuga</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7a1d2e4257dcb9e53d8a87b270329d56a8aeef9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mike-georgia-at-soundcloud/fuga/index.html</link>
+            <guid isPermaLink="false">57809fb5-81cf-4190-8542-1edff3985331</guid>
+            <pubDate>Wed, 03 Feb 2016 05:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Light Beams and Daybreak]]></title>
             <description><![CDATA[<article><h1>Light Beams and Daybreak</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea4715ac7757c9d3f3242d67a234189dd8df1787.jpg"></article>]]></description>
-            <link>undefinedlight-beams-and-daybreak/index.html</link>
+            <link>https://thegrid.ai/mike-georgia-at-soundcloud/light-beams-and-daybreak/index.html</link>
             <guid isPermaLink="false">dc2ccd5a-9f82-41b5-b86a-97cf90fac93c</guid>
             <pubDate>Wed, 03 Feb 2016 05:31:01 GMT</pubDate>
         </item>
